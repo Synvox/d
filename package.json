@@ -25,7 +25,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@synvox/path",
+  "name": "@synvox/d",
   "author": "Ryan Allred",
   "module": "dist/d.esm.js",
   "devDependencies": {
